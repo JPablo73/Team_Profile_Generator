@@ -48,7 +48,7 @@ To run tests, run the following command:
 
 ### Demo
 
-- [demo](https://drive.google.com/file/d/1M26Xh1uqQ849j9IWr9FJs83c-xF7Tva8/view):
+- [demo]():
 
   - It demos the functionality of the app.
 

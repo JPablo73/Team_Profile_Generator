@@ -35,7 +35,7 @@ describe("Intern", () => {
 
       const intern = new Intern(name, id, email, school);
 
-      expect(intern.getId()).toEqual("0001");
+      expect(intern.getId()).toEqual("01");
     });
     it("getEmail() returns the email of the Intern object", () => {
       const name = "Juan Pablo";

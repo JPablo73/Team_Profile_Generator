@@ -1,3 +1,6 @@
+<img width="1327" alt="my_team" src="https://user-images.githubusercontent.com/82916926/138620509-4f0431f8-d7e4-4111-aaf6-fd736886ba80.png">
+
+
 # Team_Profile_Generator
 
 node js app that takes information provided by the user that generates a webpage a list of employees and their role.

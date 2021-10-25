@@ -57,15 +57,5 @@ describe("Intern", () => {
 
       expect(intern.getRole()).toEqual("Intern");
     });
-    // it("getGithub() returns the github account of the Intern object", () => {
-    //   const name = "Juan Pablo";
-    //   const id = "01";
-    //   const email = "bernal1307@gmail.com";
-    //   const school = "UCR Extension";
-
-    //   const intern = new Intern(name, id, email, school);
-
-    //   expect(intern.getSchool()).toEqual("UCR Extension");
-    // });
   });
 });

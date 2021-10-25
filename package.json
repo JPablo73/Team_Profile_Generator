@@ -1,0 +1,30 @@
+{
+  "name": "team_profile_generator",
+  "description": "node js app that takes information provided by the user that generates a webpage a list of employees and their role.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPablo73/Team_Profile_Generator.git"
+  },
+  "author": "Juan Pablo",
+  "license": "ISC",
+  "devDependecies": {
+    "jest": "^24.9.0"
+  },
+  "bugs": {
+    "url": "https://github.com/JPablo73/Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/JPablo73/Team_Profile_Generator#readme",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6"
+  }
+}

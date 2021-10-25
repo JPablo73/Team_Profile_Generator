@@ -48,7 +48,7 @@ To run tests, run the following command:
 
 ### Demo
 
-- [demo]():
+- [demo](https://watch.screencastify.com/v/1sqz0J4Dg62llVg13efC):
 
   - It demos the functionality of the app.
 
